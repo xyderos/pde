@@ -1,0 +1,12 @@
+Gridsize 100 with 20 iterations
+9472
+9500
+9580
+9517
+9534
+Gridsize 200 with 20 iterations
+39038
+39094
+39136
+39080
+39294

@@ -1,0 +1,12 @@
+Gridsize 29 with 20 iterations
+517
+502
+502
+502
+501
+Gridsize 69 with 20 iterations
+2320
+2320
+2331
+2378
+2321

@@ -1,0 +1,48 @@
+Gridsize 100 with 20 iterations and 1 worker
+6697
+7034
+6911
+6967
+6876
+Gridsize 100 with 20 iterations and 2 workers
+7105
+6907
+6824
+12569
+6968
+Gridsize 100 with 20 iterations and 3 workers
+7525
+6695
+7549
+7060
+8158
+Gridsize 100 with 20 iterations and 4 workers
+7864
+7620
+7052
+6779
+7931
+Gridsize 200 with 20 iterations and 1 worker
+23190
+22900
+22605
+23174
+21468
+Gridsize 200 with 20 iterations and 2 workers
+23434
+23353
+22625
+22024
+23036
+Gridsize 200 with 20 iterations and 3 workers
+21743
+22629
+21718
+22947
+22807
+Gridsize 200 with 20 iterations and 4 workers
+22256
+22168
+21795
+22593
+22418
